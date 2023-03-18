@@ -8,3 +8,4 @@ while True:
 		print("Siradasınız Siranız Şuanda",sayi)
 		sleep(1.3)
 		input("Lütfen Sira Çekmek İçin Enter'e Basin 》")
+dsfkjdsfjdsfkjdsjksjksfjkjkdfkjfgjkdfkdfjkdfjkdsjkdsfkjdsfkljflgjrsgsr
